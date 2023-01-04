@@ -10,7 +10,7 @@ Location
 
 | Date  | Topic                      |
 |-------|----------------------------|
-| 01/04 WED | End-to-End Object Detection with Transformers [[paper](https://arxiv.org/abs/2005.12872)] <br /> Anchor DETR: Query Design for Transformer-Based Object Detection [[paper](https://arxiv.org/pdf/2109.07107.pdf)]|
+| 01/04 WED | End-to-End Object Detection with Transformers [[paper](https://arxiv.org/abs/2005.12872)] [[git](https://github.com/facebookresearch/detr)]  [[tutorial](https://github.com/facebookresearch/detr)]| <br /> Anchor DETR: Query Design for Transformer-Based Object Detection [[paper](https://arxiv.org/pdf/2109.07107.pdf)] 
 | 01/05 THU | TBA |
 | 01/06 FRI | TBA |
 
