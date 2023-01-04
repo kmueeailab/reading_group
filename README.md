@@ -1,19 +1,29 @@
 # KMU AI_lab Reading Group
 
 Time
-- Tuesday 11:00AM
+- Wednesday, Friday 10:00 AM
+- Tuesday, Thursday  9:30 AM
 
 Location
-- add plz
+- future hall 440
+
+## Table of Contents
+
+- [Current Schedule (Winter 2023)](#current-schedule)
+- [Related Links](#related-links)
+- [About Us](#about-us)
 
 ## Current Schedule
 
 | Date  | Topic                      |
 |-------|----------------------------|
-| 01/04 WED | End-to-End Object Detection with Transformers [[paper](https://arxiv.org/abs/2005.12872)] [[git](https://github.com/facebookresearch/detr)]  [[tutorial](https://github.com/facebookresearch/detr)] <br /> Anchor DETR: Query Design for Transformer-Based Object Detection [[paper](https://arxiv.org/pdf/2109.07107.pdf)] 
-| 01/05 THU | TBA |
+| 01/04 WED | End-to-End Object Detection with Transformers [[paper](https://arxiv.org/abs/2005.12872)] [[git](https://github.com/facebookresearch/detr)]  [[tutorial](https://github.com/facebookresearch/detr)] |
+| 01/05 THU | Anchor DETR: Query Design for Transformer-Based Object Detection [[paper](https://arxiv.org/pdf/2109.07107.pdf)]  |
 | 01/06 FRI | TBA |
-
+| 01/10 TUE | TBA |
+| 01/11 WED | TBA |
+| 01/12 THU | TBA |
+| 01/13 FRI | TBA |
 
 ## Related Links
 
@@ -43,5 +53,10 @@ Location
 
 #### about Markdown(MD)
 - [마크다운(Markdown) 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+## about us
+- homepage
+  - [lab](http://ailab.kookmin.ac.kr)
+  - [professor](https://sites.google.com/view/soochahnlee/home)
 
 
