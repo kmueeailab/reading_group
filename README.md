@@ -19,7 +19,7 @@ Location
 |-------|----------------------------|
 | 01/04 WED | End-to-End Object Detection with Transformers [[paper](https://arxiv.org/abs/2005.12872)] [[git](https://github.com/facebookresearch/detr)]  [[tutorial](https://github.com/facebookresearch/detr)] |
 | 01/05 THU | Anchor DETR: Query Design for Transformer-Based Object Detection [[paper](https://arxiv.org/pdf/2109.07107.pdf)]  |
-| 01/06 FRI | TBA |
+| 01/06 FRI | Rich feature hierarchies for accurate object detection and semantic segmentation [[paper](https://arxiv.org/abs/1311.2524)] </br> |
 | 01/10 TUE | TBA |
 | 01/11 WED | TBA |
 | 01/12 THU | TBA |
