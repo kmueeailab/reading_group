@@ -21,9 +21,13 @@ Location
 | 01/05 THU | Anchor DETR: Query Design for Transformer-Based Object Detection [[paper](https://arxiv.org/pdf/2109.07107.pdf)]  |
 | 01/06 FRI | Visualizing Data using t-SNE [[paper](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)] |
 | 01/10 TUE | Rich feature hierarchies for accurate object detection and semantic segmentation[[paper](https://arxiv.org/abs/1311.2524)] <br/> Fast R-CNN [[paper](https://arxiv.org/abs/1504.08083)] <br/> Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[paper](https://arxiv.org/abs/1506.01497)] <br/> Mask R-CNN[[paper](https://arxiv.org/abs/1703.06870)] |
-| 01/11 WED | TBA |
-| 01/12 THU | TBA |
+| 01/11 WED | t-SNE  review |
+| 01/12 THU | t-SNE  review |
 | 01/13 FRI | TBA |
+| 01/17 TUE | TBA |
+| 01/18 WED | TBA |
+| 01/19 THU | TBA |
+| 01/20 FRI | TBA |
 
 ## Related Links
 
