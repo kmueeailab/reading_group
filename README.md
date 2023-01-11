@@ -1,14 +1,5 @@
 # KMU AI_lab Reading Group
 
-------- CyberPunk2077----------
-------- CyberPunk2077----------
-------- CyberPunk2077----------
-------- CyberPunk2077----------
-------- CyberPunk2077----------
-------- CyberPunk2077----------
-------- CyberPunk2077----------
-------- CyberPunk2077----------
-
 Time
 - Wednesday, Friday 10:00 AM
 - Tuesday, Thursday  9:30 AM
