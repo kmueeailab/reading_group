@@ -1,8 +1,8 @@
 # KMU AI_lab Reading Group
 
 Time
-- Wednesday, Friday 10:00 AM
-- Tuesday, Thursday  9:30 AM
+- Tuesday, Thursday 10:00 AM
+- Wednesday, Friday  9:30 AM
 
 Location
 - future hall 440
