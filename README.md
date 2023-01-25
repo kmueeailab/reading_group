@@ -24,10 +24,13 @@ Location
 | 01/11 WED | t-SNE  review |
 | 01/12 THU | t-SNE  review |
 | 01/13 FRI | The Forward-Forward Algorithm: Some Preliminary Investigations [[paper](https://www.cs.toronto.edu/~hinton/FFA13.pdf)]  |
-| 01/17 TUE | TBA |
+| 01/17 TUE | SemPPL: PREDICTING PSEUDO-LABELS FOR BETTERCONTRASTIVE REPRESENTATIONS [[paper](https://arxiv.org/pdf/2301.05158.pdf)]|
 | 01/18 WED | TBA |
 | 01/19 THU | TBA |
-| 01/20 FRI | TBA |
+| 01/20 FRI | NeRF:  Representing Scenes as Neural Radiance Fields for View Synthesis [[paper](https://arxiv.org/pdf/2003.08934.pdf)][[tutorial](https://sites.google.com/berkeley.edu/nerf-tutorial/home?pli=1)]|
+| 01/25 WED | NeRF review |
+| 01/26 THU | NeRF review |
+| 01/27 FRI | TBA |
 
 ## Related Links
 
