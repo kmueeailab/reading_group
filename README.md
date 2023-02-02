@@ -30,7 +30,11 @@ Location
 | 01/20 FRI | NeRF:  Representing Scenes as Neural Radiance Fields for View Synthesis [[paper](https://arxiv.org/pdf/2003.08934.pdf)][[tutorial](https://sites.google.com/berkeley.edu/nerf-tutorial/home?pli=1)]|
 | 01/25 WED | NeRF review |
 | 01/26 THU | NeRF review |
-| 01/27 FRI | TBA |
+| 01/27 FRI | Learning-Rate-Free Learning by D-Adaptation [[paper](https://arxiv.org/pdf/2301.07733v2.pdf)] |
+| 01/17 TUE | DDPM Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2006.11239.pdf)] |
+| 01/18 WED | DDPM review |
+| 01/19 THU | DDPM review |
+| 01/20 FRI | DDPM review |
 
 ## Related Links
 
