@@ -1,66 +1,33 @@
 # KMU AI_lab Reading Group
 
 Time
-- Tuesday, Thursday 10:00 AM
-- Wednesday, Friday  9:30 AM
+- Tuesday  3:00 PM
+- Thursday 4:30 PM
 
 Location
 - future hall 440
-
-## Table of Contents
-
-- [Current Schedule (Winter 2023)](#current-schedule)
-- [Related Links](#related-links)
-- [About Us](#about-us)
 
 ## Current Schedule
 
 | Date  | Topic                      |
 |-------|----------------------------|
-| 01/04 WED | End-to-End Object Detection with Transformers [[paper](https://arxiv.org/abs/2005.12872)] [[git](https://github.com/facebookresearch/detr)]  [[tutorial](https://github.com/facebookresearch/detr)] |
-| 01/05 THU | Anchor DETR: Query Design for Transformer-Based Object Detection [[paper](https://arxiv.org/pdf/2109.07107.pdf)]  |
-| 01/06 FRI | Visualizing Data using t-SNE [[paper](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)] |
-| 01/10 TUE | Rich feature hierarchies for accurate object detection and semantic segmentation[[paper](https://arxiv.org/abs/1311.2524)] <br/> Fast R-CNN [[paper](https://arxiv.org/abs/1504.08083)] <br/> Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[paper](https://arxiv.org/abs/1506.01497)] <br/> Mask R-CNN[[paper](https://arxiv.org/abs/1703.06870)] |
-| 01/11 WED | t-SNE  review |
-| 01/12 THU | t-SNE  review |
-| 01/13 FRI | The Forward-Forward Algorithm: Some Preliminary Investigations [[paper](https://www.cs.toronto.edu/~hinton/FFA13.pdf)]  |
-| 01/17 TUE | SemPPL: PREDICTING PSEUDO-LABELS FOR BETTERCONTRASTIVE REPRESENTATIONS [[paper](https://arxiv.org/pdf/2301.05158.pdf)]|
-| 01/18 WED | TBA |
-| 01/19 THU | TBA |
-| 01/20 FRI | NeRF:  Representing Scenes as Neural Radiance Fields for View Synthesis [[paper](https://arxiv.org/pdf/2003.08934.pdf)][[tutorial](https://sites.google.com/berkeley.edu/nerf-tutorial/home?pli=1)]|
-| 01/25 WED | NeRF review |
-| 01/26 THU | NeRF review |
-| 01/27 FRI | Learning-Rate-Free Learning by D-Adaptation [[paper](https://arxiv.org/pdf/2301.07733v2.pdf)] |
-| 01/17 TUE | DDPM Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2006.11239.pdf)] |
-| 01/18 WED | DDPM review |
-| 01/19 THU | DDPM review |
-| 01/20 FRI | DDPM review |
+| 03/24 THU | LLaMA: Open and Efficient Foundation Language Models [[paper](https://arxiv.org/abs/2302.13971)]|
+|| Alpaca: A Strong, Replicable Instruction-Following Model [[paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)]|
+| 03/28 TUE | LoRA: Low-Rank Adaptation of Large Language Models [[paper](https://arxiv.org/abs/2106.09685)]|
+| 03/30 THU | Florence: A New Foundation Model for Computer Vision [[paper](https://arxiv.org/abs/2111.11432)]|
+| 04/04 TUE | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[paper](https://arxiv.org/abs/1810.04805)]|
+| | Attention Is All You Need [[paper](https://arxiv.org/abs/1706.03762)]|
+| 04/06 THU | Improving Language Understanding by Generative Pre-Training[[paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)]|
+| 04/11 TUE | Your Diffusion Model is Secretly a Zero-Shot Classifier[[paper](https://arxiv.org/abs/2303.16203)]|
+| 04/13 THU | When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It?[[paper](https://arxiv.org/abs/2210.01936)]|
+| 04/18 TUE | Label-Free Liver Tumor Segmentation [[paper](https://arxiv.org/abs/2303.14869)]|
+| 04/20 THU | Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Model [[paper](https://arxiv.org/abs/2304.08818)]|
+|  | An Edit Friendly DDPM Noise Space: Inversion and Manipulations [[paper](https://arxiv.org/abs/2304.06140)]|
+| | Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance [[paper](https://arxiv.org/abs/2210.05559)]|
+| 04/25 TUE | On the duality between contrastive and non-contrastive self-supervised learning [[paper](https://openreview.net/forum?id=kDEL91Dufpa)]|
+| 04/27 THU | GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[paper](https://arxiv.org/abs/2112.10741)]|
 
-## Related Links
 
-#### Resources
-- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-- [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
-- [Computer Vision Foundation open access](http://openaccess.thecvf.com/menu.py)
-
-#### Similar reading group/seminars in other universities
-- [MIT Vision Seminars](https://sites.google.com/view/visionseminar)
-- [UIUC Vision Lunch](http://vision.cs.illinois.edu/vision_website/)
-- [UT-Austin CV Reading Group](http://vision.cs.utexas.edu/readinggroup/)
-- [CMU VASC Seminar Series](http://ri.cmu.edu/events/category/vasc-seminar-series/list/?tribe_paged=1&tribe_event_display=past)
-- [CMU ML Reading Group](http://www.cs.cmu.edu/~aarti/SMLRG/schedule.html)
-- [VT Vision and Learning Reading Group](https://github.com/vt-vl-lab/reading_group)
-- [딥러닝 논문 읽기 모임 @ TensorFlow Korea Facebook Group](https://www.youtube.com/playlist?list=PLXiK3f5MOQ760xYLb2eWbtOKOwUC-bByj)
-- [KHU Vision and Learning Reading Group](https://github.com/khuvll/reading_group)
-
-#### Advanced CV courses
-- [Advanced Computer Vision](https://filebox.ece.vt.edu/~jbhuang/teaching/ece6554/sp17/index.html) (Jia-Bin Huang, Virginia Tech)
-- [Object and Activity Recognition Seminar](https://sites.google.com/site/ucbcs29443/) (Trevor Darrell, UC Berkeley)
-- [Visual Learning and Recognition](http://graphics.cs.cmu.edu/courses/16-824/2017_spring/) (Abhinav Gupta, CMU)
-- [Visual Recognition](http://vision.cs.utexas.edu/381V-fall2016/) (Kristen Grauman, UT Austin)
-- [Advanced Computer Vision](https://filebox.ece.vt.edu/~S16ECE6554/) (Devi Parikh, Georgia Tech)
-- [Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17) (Svetlana Lazebnik, UIUC)
 
 #### about Markdown(MD)
 - [마크다운(Markdown) 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
