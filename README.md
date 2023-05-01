@@ -9,8 +9,8 @@ Location
 
 ## Current Schedule
 
-| Date  | Topic                      |
-|-------|----------------------------|
+|   Date   | Topic                      |
+|--------------|----------------------------|
 | 03/24 THU | LLaMA: Open and Efficient Foundation Language Models [[paper](https://arxiv.org/abs/2302.13971)]|
 || Alpaca: A Strong, Replicable Instruction-Following Model [[paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)]|
 | 03/28 TUE | LoRA: Low-Rank Adaptation of Large Language Models [[paper](https://arxiv.org/abs/2106.09685)]|
